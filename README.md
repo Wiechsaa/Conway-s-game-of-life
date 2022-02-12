@@ -5,7 +5,7 @@ Simple simulation based on popular concept
 Make sure that you're in your project folder and run 
 
 ```bash
-pipenv install
+pipenv sync
 ```
 to install necessary packages
 
